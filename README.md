@@ -1,5 +1,6 @@
 # AdguardBlackListFilter
-filter list to add in Adguard
+filter list to add in Adguard,Abblod,ublock Origin
+
 
 Go to Adguard Settings
 
