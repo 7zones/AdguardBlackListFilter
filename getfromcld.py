@@ -31,7 +31,7 @@ def main():
         fin = fin.replace('/*','')
         fin = fin + '$all'
       #  print(f'url Name:  {i["url"]}')
-       # print(f'url Name:' +  fin)
+        print(f'url Name:' +  fin)
         blacklist.append(fin)
     with open('CLDBllacklist.7onez', 'a') as f:
         f.writelines('\n||'.join(blacklist))
