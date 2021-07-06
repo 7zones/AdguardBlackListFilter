@@ -33,6 +33,7 @@ def main():
       #  print(f'url Name:  {i["url"]}')
         print(f'url Name:' +  fin)
         blacklist.append(fin)
+    blacklist = list(dict.fromkeys(blacklist))
     with open('CLDBllacklist.7onez', 'a') as f:
         f.writelines('\n||'.join(blacklist))
     #print(blacklist)
