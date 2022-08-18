@@ -1,5 +1,5 @@
 ! Title: Chong Lua Dao Blacklist (AdGuard)
-! Updated: 08/17/2022, 09:48:20
+! Updated: 08/18/2022, 10:09:36
 ! Expires: 1 day (update frequency)
 ! Homepage: https:chongluadao.vn
 ! License: https:chongluadao.vn
@@ -8010,6 +8010,20 @@
 ||checkmomo.me$all
 ||clmm.cam$all
 ||wikifx.com$all
+||uu88.com$all
+||88uu.vin$all
+||vn-co.xyz$all
+||vn-co.top$all
+||vn-lienkettaikhoannhanqua.online$all
+||vn-security.club$all
+||vn-tr.top$all
+||vn-tr.xyz$all
+||acbliv.com$all
+||zuluea.com$all
+||xanhchin.vip$all
+||tx86.me$all
+||fastprimeexpress.com$all
+||we191.com$all
 ||nhanquatruykichmienphi.blogspot.com$all
 ||monneygram.weebly.com$all
 ||nhanquanrofreene.weebly.com$all
